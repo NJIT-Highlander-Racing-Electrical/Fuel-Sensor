@@ -9,7 +9,7 @@ A subsystem that measures the amount of fuel left in the fuel tank and communica
    * Manual reset with each refuel
   
 * Volume sensor
-  * Difficult because must not modify the fuel tank or increase the fuel capacity\
+  * Difficult because must not modify the fuel tank or increase the fuel capacity
  
 * Or, could we just relate the engine RPM to fuel flow rate? From initial research, these are not quite linear, but they may give a good estimate
 
