@@ -8,7 +8,8 @@
 * Flow-Rate Sensor (that can handle gasoline)
  - A flow rate sensor could present many issues:
    * Drift in the readings over time
-   * Manual reset with each refuel
+   * Manual reset button on fuel sensor arduino that is pressed with each refuel
+   * Store data on Arduino when powered off with last fuel level
   
 * Volume sensor
   * Difficult because must not modify the fuel tank or increase the fuel capacity
